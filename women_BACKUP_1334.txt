@@ -1,5 +1,4 @@
-<<<<<<< HEAD
+
 new collection is renewed in women section
-=======
 this is women section 
->>>>>>> act
+
